@@ -28,4 +28,5 @@ My research focuses on **machine unlearning**: how to efficiently remove the inf
 Before starting my PhD in 2025, I graduated from [Mines Paris – PSL](https://www.minesparis.psl.eu/) (engineering degree, major in geostatistics) and from the [MVA master's program](https://www.master-mva.com/) (Mathématiques, Vision, Apprentissage) at ENS Paris-Saclay.
 
 I am always happy to discuss research so feel free to reach out!
-Contact: hanna.benarroch [at] ens.fr
+
+**Contact:** hanna.benarroch [at] ens.fr
