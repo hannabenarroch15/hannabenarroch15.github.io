@@ -26,3 +26,5 @@ I am a PhD student in machine learning at the Computer Science Department of [É
 My research focuses on **machine unlearning**: how to efficiently remove the influence of specific training data from a trained model, with formal guarantees that the result is close to a model retrained without that data. I am particularly interested in certified approaches to approximate unlearning based on differential privacy.
 
 Before starting my PhD in 2025, I graduated from [Mines Paris – PSL](https://www.minesparis.psl.eu/) (engineering degree, major in geostatistics) and from the [MVA master's program](https://www.master-mva.com/) (Mathématiques, Vision, Apprentissage) at ENS Paris-Saclay.
+
+I am always happy to discuss research or collaborating so feel free to [reach out] (hanna.benarroch@ens.fr)! 
