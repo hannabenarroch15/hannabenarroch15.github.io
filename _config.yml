@@ -269,6 +269,8 @@ plugins:
   - jekyll-toc
   - jekyll-twitter-plugin
   - jemoji
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
   # al-folio plugins
   - al_folio_core
